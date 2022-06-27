@@ -21,6 +21,19 @@
         <option value="$PROJECT_DIR$/../demo_14_springboot_rabbitmq (2)/pom.xml" />
         <option value="$PROJECT_DIR$/../demo_14_springboot_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/../demo_15_springboot_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_20_publiserconfirms_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_20_publisherconfirms_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_20_publisherconfirms_springboot_02/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_21_persistent/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_22_consumerAck/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_22_springboot_consumerAck/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_23_consumerQos/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_24_tracing/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_17_ttl/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_17_ttl_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_18_dlx/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_18_dlx_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_19_delayed_exchange/pom.xml" />
       </list>
     </option>
   </component>

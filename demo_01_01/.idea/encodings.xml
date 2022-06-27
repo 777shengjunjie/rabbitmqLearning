@@ -6,5 +6,13 @@
     <file url="file://$PROJECT_DIR$/../demo_14_springboot_rabbitmq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../demo_15_springboot_consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../demo_15_springboot_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_17_ttl_springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_18_dlx_springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_18_dlx_springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_19_delayed_exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_19_delayed_exchange/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_20_publisherconfirms_springboot_02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_22_springboot_consumerAck/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../demo_22_springboot_consumerAck/src/main/resources" charset="UTF-8" />
   </component>
 </project>
