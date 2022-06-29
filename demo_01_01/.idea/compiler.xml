@@ -21,6 +21,7 @@
         <module name="demo_10_spring_rabbit_xml_listener" />
         <module name="demo_14_springboot_rabbitmq (1)" />
         <module name="cd" />
+        <module name="demo_16_springboot_haproxy" />
         <module name="demo_04_fanout" />
         <module name="demo_20_publisherconfirms_springboot_02" />
         <module name="demo_17_ttl_springboot" />
@@ -42,6 +43,7 @@
       <module name="demo_14_springboot_rabbitmq" options="-parameters" />
       <module name="demo_14_springboot_rabbitmq (1)" options="-parameters" />
       <module name="demo_15_springboot_consumer" options="-parameters" />
+      <module name="demo_16_springboot_haproxy" options="-parameters" />
       <module name="demo_17_ttl_springboot" options="-parameters" />
       <module name="demo_18_dlx_springboot" options="-parameters" />
       <module name="demo_19_delayed_exchange" options="-parameters" />

@@ -34,6 +34,7 @@
         <option value="$PROJECT_DIR$/../demo_18_dlx/pom.xml" />
         <option value="$PROJECT_DIR$/../demo_18_dlx_springboot/pom.xml" />
         <option value="$PROJECT_DIR$/../demo_19_delayed_exchange/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo_16_springboot_haproxy/pom.xml" />
       </list>
     </option>
   </component>
