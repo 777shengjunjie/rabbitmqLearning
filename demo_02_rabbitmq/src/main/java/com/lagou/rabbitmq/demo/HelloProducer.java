@@ -42,7 +42,7 @@ public class HelloProducer {
         // 是否是排他的  （结果的消息不与他人共享）
         // 是否是自动删除的
         // 消息队列的属性信息。使用默认值；
-        channel.queueDeclare("queue.biz", false, false, true, null);
+        channel.queueDeclare("queue.biz2", false, false, true, null);
 
         // 声明交换器
         // 交换器的名称
@@ -50,9 +50,9 @@ public class HelloProducer {
         // 交换器是否是持久化的
         // 交换器是否是自动删除的
         // 交换器的属性map集合
-        channel.exchangeDeclare("ex.biz", BuiltinExchangeType.DIRECT, false, false, null);
+        channel.exchangeDeclare("ex2.biz", BuiltinExchangeType.DIRECT, false, false, null);
         // 将交换器和消息队列绑定，并指定路由键
-        channel.queueBind("queue.biz", "ex.biz", "hello.world");
+        channel.queueBind("queue.biz2", "ex.biz", "hello.world");
 
         // 发送消息
         // 交换器的名字
